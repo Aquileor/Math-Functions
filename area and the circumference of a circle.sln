@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "area and the circumference of a circle", "area and the circumference of a circle\area and the circumference of a circle.csproj", "{C912FEE5-3572-4547-BD15-AEBEA653CC89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CON1", "area and the circumference of a circle\CON1.csproj", "{C912FEE5-3572-4547-BD15-AEBEA653CC89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CON2", "area and the circumference of a circleTests\CON2.csproj", "{78392039-08B7-44FD-ADD4-CBB4CB567F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VizMathFunc", "VizMathFunc\VizMathFunc.csproj", "{821B0CB4-0152-4341-8AAF-4904A23B1FC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C912FEE5-3572-4547-BD15-AEBEA653CC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C912FEE5-3572-4547-BD15-AEBEA653CC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C912FEE5-3572-4547-BD15-AEBEA653CC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78392039-08B7-44FD-ADD4-CBB4CB567F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78392039-08B7-44FD-ADD4-CBB4CB567F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78392039-08B7-44FD-ADD4-CBB4CB567F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78392039-08B7-44FD-ADD4-CBB4CB567F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821B0CB4-0152-4341-8AAF-4904A23B1FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821B0CB4-0152-4341-8AAF-4904A23B1FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821B0CB4-0152-4341-8AAF-4904A23B1FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821B0CB4-0152-4341-8AAF-4904A23B1FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
